@@ -3,6 +3,7 @@ from twilio.twiml.messaging_response import MessagingResponse
 from twilio.rest import Client
 import json
 from main import Susbot
+import pandas as pd
 
 with open("config.json", 'r') as env:
     environment = json.load(env)
@@ -18,7 +19,7 @@ app = Flask(__name__)
 def forward():
     incoming_message = request.form['Body']
     from_phone = request.form['From']
-    if(Susbot == True):
+    if(Surbot == True):
         
         ooga = client.messages.create(
             to = from_phone,
@@ -26,7 +27,7 @@ def forward():
             body= Susbot(incoming_message)
         )
     elif(incoming_message == "Susbot"):
-        subBot=True
+        Surbot=True
         ooga = client.messages.create(
             to = from_phone,
             from_= companyPhone,
