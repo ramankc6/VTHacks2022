@@ -1,6 +1,7 @@
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from os import environ
+import json
 from twilio.rest import Client
 
 with open("config.json", 'r') as env:
@@ -41,7 +42,7 @@ def forward():
             body=incoming_message)
     return(ooga.sid)
 
-print("yo momma")
+
 
 
    
