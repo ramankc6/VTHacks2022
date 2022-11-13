@@ -2,7 +2,7 @@ from matplotlib import pyplot as plt
 import pandas as pd
 import json
 
-with open("config.json", 'r') as env:
+with open("../config.json", 'r') as env:
     environment = json.load(env)
     input_file = environment['input']
 

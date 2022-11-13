@@ -1,4 +1,5 @@
 {
   "train_data": "input/2022-fuel-consumption-ratings/MY2022 Fuel Consumption Ratings - MY2022 Fuel Consumption Ratings.csv",
-  "input_data": "input/2022-fuel-consumption-ratings/PIVITBBBYYYYY - Sheet1.csv"
+  "input_data": "input/2022-fuel-consumption-ratings/PIVITBBBYYYYY - Sheet1.csv",
+  "result":
 }
