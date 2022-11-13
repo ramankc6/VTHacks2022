@@ -22,7 +22,7 @@ def forward():
         ooga = client.messages.create(
             to = from_phone,
             from_= companyPhone,
-            body= susbot(incoming_message)
+            body= SusBot(incoming_message)
         )
     elif(incoming_message == "Susbot"):
         subBot=True
