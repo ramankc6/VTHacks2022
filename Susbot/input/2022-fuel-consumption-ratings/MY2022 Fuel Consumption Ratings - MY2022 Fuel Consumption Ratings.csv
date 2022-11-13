@@ -1,0 +1,947 @@
+Model Year,Make,Model,Fuel Type,CO2 Emissions(g/km)
+2022,Acura,ILX,Z,200
+2022,Acura,MDX SH-AWD,Z,263
+2022,Acura,RDX SH-AWD,Z,232
+2022,Acura,RDX SH-AWD A-SPEC,Z,242
+2022,Acura,TLX SH-AWD,Z,230
+2022,Acura,TLX SH-AWD A-SPEC,Z,231
+2022,Acura,TLX Type S,Z,256
+2022,Acura,TLX Type S (Performance Tire),Z,261
+2022,Alfa Romeo,Giulia,Z,205
+2022,Alfa Romeo,Giulia AWD,Z,217
+2022,Alfa Romeo,Giulia Quadrifoglio,Z,271
+2022,Alfa Romeo,Stelvio,Z,218
+2022,Alfa Romeo,Stelvio AWD,Z,226
+2022,Alfa Romeo,Stelvio AWD Quadrifoglio,Z,288
+2022,Aston Martin,DB11 V8,Z,271
+2022,Aston Martin,DB11 V12,Z,324
+2022,Aston Martin,DBS V12,Z,324
+2022,Aston Martin,DBX V8,Z,343
+2022,Aston Martin,Vantage V8,Z,270
+2022,Audi,A3 Sedan 40 TFSI quattro,X,178
+2022,Audi,A4 Sedan 40 TFSI quattro,Z,190
+2022,Audi,A4 Sedan 45 TFSI quattro,Z,205
+2022,Audi,A4 allroad 45 TFSI quattro,Z,208
+2022,Audi,A5 Cabriolet 45 TFSI quattro,Z,214
+2022,Audi,A5 Coupe 45 TFSI quattro,Z,205
+2022,Audi,A5 Sportback 45 TFSI quattro,Z,205
+2022,Audi,A6 Sedan 45 TFSI quattro,Z,208
+2022,Audi,A6 Sedan 55 TFSI quattro,Z,224
+2022,Audi,A6 allroad 55 TFSI quattro,Z,234
+2022,Audi,A7 Sportback 55 TFSI quattro,Z,224
+2022,Audi,A8 L Sedan 55 TFSI quattro,Z,248
+2022,Audi,Q3 40 TFSI quattro,X,215
+2022,Audi,Q3 45 TFSI quattro,X,233
+2022,Audi,Q5 40 TFSI quattro,Z,217
+2022,Audi,Q5 45 TFSI quattro,Z,220
+2022,Audi,Q5 Sportback 45 TFSI quattro,Z,220
+2022,Audi,Q7 45 TFSI quattro,Z,252
+2022,Audi,Q7 55 TFSI quattro,Z,273
+2022,Audi,Q8 55 TFSI quattro,Z,273
+2022,Audi,R8 Coupe Performance,Z,322
+2022,Audi,R8 Coupe Performance quattro,Z,356
+2022,Audi,R8 Spyder Performance,Z,322
+2022,Audi,R8 Spyder Performance quattro,Z,356
+2022,Audi,RS 5 Coupe quattro,Z,267
+2022,Audi,RS 5 Sportback quattro,Z,268
+2022,Audi,RS 6 Avant quattro,Z,319
+2022,Audi,RS 7 Sportback quattro,Z,315
+2022,Audi,RS Q8 quattro,Z,360
+2022,Audi,S3 Sedan quattro,Z,206
+2022,Audi,S4 Sedan quattro,Z,227
+2022,Audi,S5 Cabriolet quattro,Z,233
+2022,Audi,S5 Coupe quattro,Z,227
+2022,Audi,S5 Sportback quattro,Z,227
+2022,Audi,S6 Sedan quattro,Z,254
+2022,Audi,S7 Sportback quattro,Z,254
+2022,Audi,S8 Sedan quattro,Z,323
+2022,Audi,SQ5 quattro,Z,262
+2022,Audi,SQ5 Sportback quattro,Z,262
+2022,Audi,SQ7 quattro,Z,325
+2022,Audi,SQ8 quattro,Z,325
+2022,Audi,TT Coupe 45 TFSI quattro,X,218
+2022,Audi,TT Roadster 45 TFSI quattro,X,218
+2022,Audi,TT RS Coupe quattro,Z,235
+2022,Audi,TTS Coupe quattro,Z,209
+2022,Bentley,Bentayga,Z,309
+2022,Bentley,Bentayga Speed,Z,383
+2022,Bentley,Continental GT,Z,287
+2022,Bentley,Continental GT Speed,Z,379
+2022,Bentley,Continental GT Convertible,Z,294
+2022,Bentley,Continental GT Convertible Speed,Z,395
+2022,Bentley,Flying Spur,Z,323
+2022,Bentley,Flying Spur,Z,373
+2022,BMW,330i xDrive Sedan,Z,195
+2022,BMW,430i xDrive Cabriolet,Z,202
+2022,BMW,430i xDrive Coupe,Z,202
+2022,BMW,530i xDrive Sedan,Z,206
+2022,BMW,540i xDrive Sedan,Z,219
+2022,BMW,750i xDrive Sedan,Z,279
+2022,BMW,750Li xDrive Sedan,Z,279
+2022,BMW,Alpina B7,Z,279
+2022,BMW,Alpina B8 Gran Coupe,Z,279
+2022,BMW,Alpina XB7,Z,321
+2022,BMW,M235i xDrive Gran Coupe,Z,214
+2022,BMW,M240i xDrive Coupe,Z,212
+2022,BMW,M3 Sedan,Z,293
+2022,BMW,M3 Competition Sedan,Z,292
+2022,BMW,M3 Competition Sedan M xDrive,Z,296
+2022,BMW,M340i xDrive Sedan,Z,214
+2022,BMW,M4 Competition Cabriolet M xDrive,Z,301
+2022,BMW,M4 Coupe,Z,293
+2022,BMW,M4 Competition Coupe,Z,292
+2022,BMW,M4 Competition Coupe M xDrive,Z,296
+2022,BMW,M440i xDrive Cabriolet,Z,211
+2022,BMW,M440i xDrive Coupe,Z,214
+2022,BMW,M440i xDrive Gran Coupe,Z,224
+2022,BMW,M5 Sedan,Z,322
+2022,BMW,M5 Competition,Z,322
+2022,BMW,M5 CS,Z,322
+2022,BMW,M550i xDrive Sedan,Z,271
+2022,BMW,M760i xDrive Sedan,Z,354
+2022,BMW,M8 Cabriolet,Z,322
+2022,BMW,M8 Cabriolet Competition,Z,322
+2022,BMW,M8 Coupe,Z,322
+2022,BMW,M8 Coupe Competition,Z,322
+2022,BMW,M8 Gran Coupe,Z,322
+2022,BMW,M8 Gran Coupe Competition,Z,322
+2022,BMW,M850i xDrive Cabriolet,Z,279
+2022,BMW,M850i xDrive Coupe,Z,271
+2022,BMW,M850i xDrive Gran Coupe,Z,279
+2022,BMW,X1 xDrive28i,Z,213
+2022,BMW,X2 xDrive28i,Z,207
+2022,BMW,X2 M35i,Z,207
+2022,BMW,X3 xDrive30i,Z,230
+2022,BMW,X3 M,Z,323
+2022,BMW,X3 M Competition,Z,323
+2022,BMW,X3 M40i,Z,241
+2022,BMW,X4 xDrive30i,Z,230
+2022,BMW,X4 M,Z,323
+2022,BMW,X4 M Competition,Z,323
+2022,BMW,X4 M40i,Z,241
+2022,BMW,X5 xDrive40i,Z,241
+2022,BMW,X5 M,Z,364
+2022,BMW,X5 M Competition,Z,364
+2022,BMW,X5 M50i,Z,302
+2022,BMW,X6 xDrive40i,Z,241
+2022,BMW,X6 M,Z,364
+2022,BMW,X6 M Competition,Z,364
+2022,BMW,X6 M50i,Z,302
+2022,BMW,X7 xDrive40i,Z,256
+2022,BMW,X7 M50i,Z,321
+2022,BMW,Z4 sDrive30i,Z,199
+2022,BMW,Z4 M40i,Z,223
+2022,Bugatti,Chiron,Z,522
+2022,Bugatti,Chiron Pur Sport,Z,608
+2022,Bugatti,Chiron Super Sport,Z,608
+2022,Buick,Enclave,X,263
+2022,Buick,Enclave AWD,X,277
+2022,Buick,Encore,X,201
+2022,Buick,Encore AWD,X,214
+2022,Buick,Encore GX,X,184
+2022,Buick,Encore GX,X,185
+2022,Buick,Encore GX AWD,X,201
+2022,Buick,Envision,X,209
+2022,Buick,Envision AWD,X,220
+2022,Cadillac,CT4,Z,206
+2022,Cadillac,CT4,Z,221
+2022,Cadillac,CT4 AWD,Z,216
+2022,Cadillac,CT4 AWD,Z,233
+2022,Cadillac,CT4-V,Z,239
+2022,Cadillac,CT4-V AWD,Z,244
+2022,Cadillac,CT4-V Blackwing,Z,297
+2022,Cadillac,CT4-V Blackwing,Z,303
+2022,Cadillac,CT5,Z,207
+2022,Cadillac,CT5,Z,252
+2022,Cadillac,CT5 AWD,Z,222
+2022,Cadillac,CT5 AWD,Z,260
+2022,Cadillac,CT5-V,Z,258
+2022,Cadillac,CT5-V AWD,Z,260
+2022,Cadillac,CT5-V Blackwing,Z,346
+2022,Cadillac,CT5-V Blackwing,Z,356
+2022,Cadillac,Escalade 4WD,D,281
+2022,Cadillac,Escalade 4WD,Z,345
+2022,Cadillac,Escalade 4WD (No Stop-Start),Z,353
+2022,Cadillac,XT4,Z,211
+2022,Cadillac,XT4 AWD,Z,225
+2022,Cadillac,XT5,Z,225
+2022,Cadillac,XT5 AWD,Z,237
+2022,Cadillac,XT5 AWD,X,263
+2022,Cadillac,XT6 AWD,Z,239
+2022,Cadillac,XT6 AWD,X,269
+2022,Chevrolet,Blazer,X,221
+2022,Chevrolet,Blazer,X,252
+2022,Chevrolet,Blazer AWD,X,232
+2022,Chevrolet,Blazer AWD,X,259
+2022,Chevrolet,Camaro,Z,222
+2022,Chevrolet,Camaro,Z,239
+2022,Chevrolet,Camaro,X,251
+2022,Chevrolet,Camaro,X,281
+2022,Chevrolet,Camaro SS,Z,281
+2022,Chevrolet,Camaro SS,Z,296
+2022,Chevrolet,Camaro ZL1,Z,355
+2022,Chevrolet,Camaro ZL1,Z,349
+2022,Chevrolet,Colorado,X,257
+2022,Chevrolet,Colorado,D,270
+2022,Chevrolet,Colorado,X,263
+2022,Chevrolet,Colorado 4WD,X,267
+2022,Chevrolet,Colorado 4WD,D,283
+2022,Chevrolet,Colorado 4WD,X,283
+2022,Chevrolet,Colorado ZR2 4WD,D,326
+2022,Chevrolet,Colorado ZR2 4WD,X,329
+2022,Chevrolet,Corvette,Z,297
+2022,Chevrolet,Equinox,X,198
+2022,Chevrolet,Equinox AWD,X,208
+2022,Chevrolet,Malibu,X,175
+2022,Chevrolet,Malibu,Z,213
+2022,Chevrolet,Silverado,X,274
+2022,Chevrolet,Silverado,D,240
+2022,Chevrolet,Silverado FFV,X,341
+2022,Chevrolet,Silverado FFV,E,321
+2022,Chevrolet,Silverado,X,314
+2022,Chevrolet,Silverado,X,304
+2022,Chevrolet,Silverado 4WD,X,306
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire,X,328
+2022,Chevrolet,Silverado 4WD,D,272
+2022,Chevrolet,Silverado 4WD (With Sport Mode),D,265
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire,D,298
+2022,Chevrolet,Silverado 4WD FFV,X,347
+2022,Chevrolet,Silverado 4WD FFV,E,326
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,X,380
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,E,358
+2022,Chevrolet,Silverado 4WD,X,327
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire,X,359
+2022,Chevrolet,Silverado 4WD,X,314
+2022,Chevrolet,Silverado 4WD (No DFM),X,347
+2022,Chevrolet,Silverado 4WD (With Sport Mode),X,327
+2022,Chevrolet,Silverado 4WD (No Stop-Start),X,339
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire,X,361
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire (No Stop-Start),X,364
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire (No DFM),X,381
+2022,Chevrolet,Silverado 4WD,Z,329
+2022,Chevrolet,Silverado 4WD (No Stop-Start),Z,345
+2022,Chevrolet,Silverado 4WD Custom Trail Boss,Z,352
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire,Z,352
+2022,Chevrolet,Silverado 4WD Mud Terrain Tire (No Stop-Start),Z,385
+2022,Chevrolet,Silverado 4WD ZR2,Z,366
+2022,Chevrolet,Spark,X,165
+2022,Chevrolet,Spark,X,170
+2022,Chevrolet,Suburban,D,272
+2022,Chevrolet,Suburban,X,327
+2022,Chevrolet,Suburban (No Stop-Start),X,332
+2022,Chevrolet,Suburban 4WD,D,281
+2022,Chevrolet,Suburban 4WD,X,336
+2022,Chevrolet,Suburban 4WD (No Stop-Start),X,354
+2022,Chevrolet,Suburban 4WD,Z,345
+2022,Chevrolet,Suburban 4WD (No Stop-Start),Z,353
+2022,Chevrolet,Tahoe,D,263
+2022,Chevrolet,Tahoe,X,327
+2022,Chevrolet,Tahoe (No Stop-Start),X,332
+2022,Chevrolet,Tahoe 4WD,D,281
+2022,Chevrolet,Tahoe 4WD,X,327
+2022,Chevrolet,Tahoe 4WD (No Stop-Start),X,354
+2022,Chevrolet,Tahoe 4WD,Z,345
+2022,Chevrolet,Tahoe 4WD (No Stop-Start),Z,353
+2022,Chevrolet,Trailblazer,X,184
+2022,Chevrolet,Trailblazer,X,178
+2022,Chevrolet,Trailblazer AWD,X,197
+2022,Chevrolet,Traverse,X,260
+2022,Chevrolet,Traverse AWD,X,277
+2022,Chevrolet,Trax,X,201
+2022,Chevrolet,Trax AWD,X,214
+2022,Chrysler,300,X,242
+2022,Chrysler,300,X,289
+2022,Chrysler,300 AWD,X,258
+2022,Chrysler,Grand Caravan,X,249
+2022,Chrysler,Pacifica,X,249
+2022,Chrysler,Pacifica AWD,X,279
+2022,Dodge,Challenger,X,242
+2022,Dodge,Challenger (MDS),X,289
+2022,Dodge,Challenger,Z,307
+2022,Dodge,Challenger (MDS),Z,305
+2022,Dodge,Challenger,Z,325
+2022,Dodge,Challenger AWD,X,258
+2022,Dodge,Challenger Widebody (MDS),Z,305
+2022,Dodge,Challenger Widebody,Z,325
+2022,Dodge,Challenger SRT Hellcat,Z,339
+2022,Dodge,Challenger SRT Hellcat,Z,352
+2022,Dodge,Challenger SRT Hellcat Widebody,Z,359
+2022,Dodge,Challenger SRT Hellcat Widebody,Z,352
+2022,Dodge,Charger,X,242
+2022,Dodge,Charger (MDS),X,289
+2022,Dodge,Charger (MDS),Z,305
+2022,Dodge,Charger AWD,X,258
+2022,Dodge,Charger Widebody (MDS),Z,305
+2022,Dodge,Charger SRT Hellcat Widebody,Z,368
+2022,Dodge,Durango AWD,X,265
+2022,Dodge,Durango AWD,X,331
+2022,Dodge,Durango AWD SRT,Z,363
+2022,FIAT,500X AWD,X,221
+2022,Ford,Bronco 4WD,X,275
+2022,Ford,Bronco 4WD,X,277
+2022,Ford,Bronco 4WD,X,291
+2022,Ford,Bronco Badlands 4WD,X,323
+2022,Ford,Bronco Badlands 4WD,X,336
+2022,Ford,Bronco Badlands 4WD,X,331
+2022,Ford,Bronco Black Diamond 4WD,X,308
+2022,Ford,Bronco Black Diamond 4WD,X,310
+2022,Ford,Bronco Sasquatch 4WD,X,314
+2022,Ford,Bronco Sasquatch 4WD,X,317
+2022,Ford,Bronco Sasquatch 4WD,X,331
+2022,Ford,Bronco Sport 4WD,X,209
+2022,Ford,Bronco Sport 4WD,X,240
+2022,Ford,EcoSport AWD,X,219
+2022,Ford,Edge AWD,X,238
+2022,Ford,Edge AWD,X,239
+2022,Ford,Edge AWD,X,262
+2022,Ford,Escape,X,182
+2022,Ford,Escape AWD,X,198
+2022,Ford,Escape AWD,X,216
+2022,Ford,Escape Hybrid,X,136
+2022,Ford,Escape Hybrid AWD,X,139
+2022,Ford,Expedition 4X4,X,304
+2022,Ford,Expedition 4X4 (Without Stop-Start),X,317
+2022,Ford,Expedition Timberline 4X4,X,317
+2022,Ford,Expedition Timberline 4X4 (Without Stop-Start),X,326
+2022,Ford,Explorer AWD,X,242
+2022,Ford,Explorer AWD (Without Stop-Start),X,252
+2022,Ford,Explorer Timberline AWD,X,269
+2022,Ford,Explorer Timberline AWD (Without Stop-Start),X,277
+2022,Ford,Explorer AWD,X,277
+2022,Ford,Explorer Hybrid AWD,X,225
+2022,Ford,F-150,X,256
+2022,Ford,F-150 (Without Stop-Start),X,282
+2022,Ford,F-150 FFV,X,260
+2022,Ford,F-150 FFV,E,249
+2022,Ford,F-150,X,275
+2022,Ford,F-150 (Without Stop-Start),X,281
+2022,Ford,F-150 FFV,X,300
+2022,Ford,F-150 FFV,E,298
+2022,Ford,F-150 FFV (Without Stop-Start),X,302
+2022,Ford,F-150 FFV (Without Stop-Start),E,289
+2022,Ford,F-150 4X4,X,274
+2022,Ford,F-150 4X4 FFV,X,277
+2022,Ford,F-150 4X4 FFV,E,256
+2022,Ford,F-150 4X4,X,284
+2022,Ford,F-150 4X4 (Without Stop-Start),X,304
+2022,Ford,F-150 4X4 FFV,X,304
+2022,Ford,F-150 4X4 FFV,E,301
+2022,Ford,F-150 4X4 FFV (Without Stop-Start),X,308
+2022,Ford,F-150 4X4 FFV (Without Stop-Start),E,295
+2022,Ford,F-150 Raptor 4X4,X,344
+2022,Ford,F-150 Raptor 4X4 (Without Stop-Start),X,357
+2022,Ford,F-150 Raptor 37 4X4,X,359
+2022,Ford,F-150 Raptor 37 4X4 (Without Stop-Start),X,370
+2022,Ford,F-150 Tremor 4X4,X,310
+2022,Ford,F-150 Tremor 4X4 (Without Stop-Start),X,313
+2022,Ford,F-150 Hybrid,X,228
+2022,Ford,F-150 Hybrid 4X4,X,238
+2022,Ford,GT,Z,395
+2022,Ford,Maverick AWD,X,226
+2022,Ford,Maverick Hybrid,X,147
+2022,Ford,Mustang,X,220
+2022,Ford,Mustang,X,231
+2022,Ford,Mustang (High Performance),X,242
+2022,Ford,Mustang,X,236
+2022,Ford,Mustang (High Performance),X,246
+2022,Ford,Mustang,X,298
+2022,Ford,Mustang,X,314
+2022,Ford,Mustang Convertible,X,237
+2022,Ford,Mustang Convertible,X,244
+2022,Ford,Mustang Convertible (High Performance),X,252
+2022,Ford,Mustang Convertible,X,244
+2022,Ford,Mustang Convertible (High Performance),X,256
+2022,Ford,Mustang Convertible,X,314
+2022,Ford,Mustang Mach 1,X,302
+2022,Ford,Mustang Mach 1,X,339
+2022,Ford,Ranger 4WD,X,256
+2022,Ford,Ranger 4WD (Without Stop-Start),X,262
+2022,Ford,Ranger 4WD Tremor,X,291
+2022,Ford,Shelby GT500 Mustang,Z,392
+2022,Ford,Transit Connect Van,X,221
+2022,Ford,Transit Connect Van FFV,X,221
+2022,Ford,Transit Connect Van FFV,E,211
+2022,Ford,Transit Connect Van,X,249
+2022,Ford,Transit Connect Wagon LWB,X,216
+2022,Ford,Transit Connect Wagon LWB FFV,X,216
+2022,Ford,Transit Connect Wagon LWB FFV,E,219
+2022,Ford,Transit Connect Wagon LWB,X,249
+2022,Genesis,G70 AWD,Z,273
+2022,Genesis,G80 AWD,Z,225
+2022,Genesis,G80 AWD,Z,298
+2022,Genesis,G90 AWD,Z,303
+2022,Genesis,GV70 AWD,Z,229
+2022,Genesis,GV70 AWD,Z,275
+2022,Genesis,GV80 AWD,Z,248
+2022,Genesis,GV80 AWD,Z,279
+2022,GMC,Acadia,X,221
+2022,GMC,Acadia,X,252
+2022,GMC,Acadia AWD,X,232
+2022,GMC,Acadia AWD,X,259
+2022,GMC,Canyon,X,257
+2022,GMC,Canyon,D,270
+2022,GMC,Canyon,X,263
+2022,GMC,Canyon 4WD,X,267
+2022,GMC,Canyon 4WD,D,283
+2022,GMC,Canyon 4WD,X,283
+2022,GMC,Sierra,X,274
+2022,GMC,Sierra,D,245
+2022,GMC,Sierra FFV,X,341
+2022,GMC,Sierra FFV,E,321
+2022,GMC,Sierra,X,314
+2022,GMC,Sierra,X,305
+2022,GMC,Sierra 4WD,X,306
+2022,GMC,Sierra 4WD Mud Terrain Tire,X,328
+2022,GMC,Sierra 4WD,D,265
+2022,GMC,Sierra 4WD Mud Terrain Tire,D,298
+2022,GMC,Sierra 4WD FFV,X,347
+2022,GMC,Sierra 4WD FFV,E,326
+2022,GMC,Sierra 4WD Mud Terrain Tire FFV,X,380
+2022,GMC,Sierra 4WD Mud Terrain Tire FFV,E,358
+2022,GMC,Sierra 4WD,X,327
+2022,GMC,Sierra 4WD Mud Terrain Tire,X,359
+2022,GMC,Sierra 4WD,X,318
+2022,GMC,Sierra 4WD (No DFM),X,347
+2022,GMC,Sierra 4WD (With Sport Mode),X,329
+2022,GMC,Sierra 4WD (No Stop-Start),X,338
+2022,GMC,Sierra 4WD Mud Terrain Tire,X,360
+2022,GMC,Sierra 4WD Mud Terrain Tire (No DFM),X,381
+2022,GMC,Sierra 4WD,Z,329
+2022,GMC,Sierra 4WD (No Stop-Start),Z,345
+2022,GMC,Sierra 4WD Mud Terrain Tire,Z,352
+2022,GMC,Sierra 4WD Mud Terrain Tire (No Stop-Start),Z,385
+2022,GMC,Terrain,X,202
+2022,GMC,Terrain AWD,X,212
+2022,GMC,Yukon,D,272
+2022,GMC,Yukon,X,327
+2022,GMC,Yukon (No Stop-Start),X,332
+2022,GMC,Yukon 4WD,D,281
+2022,GMC,Yukon 4WD,X,327
+2022,GMC,Yukon 4WD (No Stop-Start),X,354
+2022,GMC,Yukon 4WD,Z,345
+2022,GMC,Yukon 4WD (No Stop-Start),Z,353
+2022,GMC,Yukon XL,D,272
+2022,GMC,Yukon XL,X,327
+2022,GMC,Yukon XL (No Stop-Start),X,332
+2022,GMC,Yukon XL 4WD,D,281
+2022,GMC,Yukon XL 4WD,X,336
+2022,GMC,Yukon XL 4WD (No Stop-Start),X,354
+2022,GMC,Yukon XL 4WD,Z,345
+2022,GMC,Yukon XL 4WD (No Stop-Start),Z,353
+2022,Honda,Accord,X,168
+2022,Honda,Accord Sport/Touring,X,176
+2022,Honda,Accord Sport/Touring,X,211
+2022,Honda,Accord Hybrid,X,117
+2022,Honda,Accord Hybrid Sport/Touring,X,129
+2022,Honda,Civic Hatchback,X,166
+2022,Honda,Civic Hatchback,X,175
+2022,Honda,Civic Hatchback,X,167
+2022,Honda,Civic Hatchback,X,186
+2022,Honda,Civic Sedan,X,162
+2022,Honda,Civic Sedan,X,162
+2022,Honda,Civic Sedan,X,165
+2022,Honda,Civic Sedan Si,Z,180
+2022,Honda,CR-V,X,180
+2022,Honda,CR-V AWD,X,189
+2022,Honda,HR-V,X,181
+2022,Honda,HR-V AWD,X,193
+2022,Honda,HR-V AWD,X,200
+2022,Honda,Odyssey,X,248
+2022,Honda,Passport AWD,X,265
+2022,Honda,Pilot AWD,X,256
+2022,Honda,Pilot AWD TrailSport,X,260
+2022,Honda,Ridgeline AWD,X,271
+2022,Hyundai,Elantra,X,179
+2022,Hyundai,Elantra,X,158
+2022,Hyundai,Elantra (ISG),X,151
+2022,Hyundai,Elantra,X,185
+2022,Hyundai,Elantra N,Z,241
+2022,Hyundai,Elantra N,Z,223
+2022,Hyundai,Elantra Hybrid Blue,X,103
+2022,Hyundai,IONIQ,X,99
+2022,Hyundai,IONIQ Blue,X,94
+2022,Hyundai,Kona,X,174
+2022,Hyundai,Kona N,Z,246
+2022,Hyundai,Kona AWD,X,193
+2022,Hyundai,Kona AWD,X,187
+2022,Hyundai,Palisade AWD,X,265
+2022,Hyundai,Santa Cruz AWD,X,250
+2022,Hyundai,Santa Fe AWD,X,233
+2022,Hyundai,Santa Fe AWD,X,235
+2022,Hyundai,Santa Fe Hybrid,X,176
+2022,Hyundai,Sonata,X,183
+2022,Hyundai,Sonata,X,208
+2022,Hyundai,Sonata,X,182
+2022,Hyundai,Sonata Hybrid,X,117
+2022,Hyundai,Tucson,X,194
+2022,Hyundai,Tucson AWD,X,214
+2022,Hyundai,Tucson Hybrid,X,152
+2022,Hyundai,Veloster N,Z,248
+2022,Hyundai,Veloster N,Z,226
+2022,Hyundai,Venue,X,176
+2022,Hyundai,Venue,X,184
+2022,Infiniti,Q50 AWD,Z,254
+2022,Infiniti,Q50 AWD Red Sport,Z,261
+2022,Infiniti,Q60 AWD,Z,252
+2022,Infiniti,Q60 AWD Red Sport,Z,259
+2022,Infiniti,QX50 AWD,Z,228
+2022,Infiniti,QX55 AWD,Z,223
+2022,Infiniti,QX60 AWD,Z,253
+2022,Infiniti,QX80 4WD,Z,355
+2022,Jaguar,E-PACE P250,Z,247
+2022,Jaguar,E-PACE P300,Z,245
+2022,Jaguar,F-TYPE P450 Convertible,Z,286
+2022,Jaguar,F-TYPE P450 Convertible AWD,Z,299
+2022,Jaguar,F-TYPE P450 Coupe,Z,286
+2022,Jaguar,F-TYPE P450 Coupe AWD,Z,299
+2022,Jaguar,F-TYPE R Convertible AWD,Z,299
+2022,Jaguar,F-TYPE R Coupe AWD,Z,299
+2022,Jeep,Cherokee,X,214
+2022,Jeep,Cherokee,X,219
+2022,Jeep,Cherokee,X,240
+2022,Jeep,Cherokee 4X4 Active Drive I,X,229
+2022,Jeep,Cherokee 4X4 Active Drive I,X,230
+2022,Jeep,Cherokee 4X4 Active Drive I,X,249
+2022,Jeep,Cherokee 4X4 Active Drive Lock,X,268
+2022,Jeep,Compass,X,218
+2022,Jeep,Compass 4X4,X,222
+2022,Jeep,Gladiator 4X4 EcoDiesel,D,263
+2022,Jeep,Gladiator 4X4 Rubicon EcoDiesel,D,271
+2022,Jeep,Gladiator 4X4,X,290
+2022,Jeep,Gladiator 4X4,X,296
+2022,Jeep,Grand Cherokee 4X4,X,256
+2022,Jeep,Grand Cherokee 4X4,X,331
+2022,Jeep,Grand Cherokee L 4X4,X,266
+2022,Jeep,Grand Cherokee L 4X4,X,331
+2022,Jeep,Grand Cherokee WK 4X4,X,265
+2022,Jeep,Grand Wagoneer 4X4,Z,374
+2022,Jeep,Renegade,X,204
+2022,Jeep,Renegade 4X4,X,222
+2022,Jeep,Renegade 4X4 Trailhawk,X,231
+2022,Jeep,Wagoneer 4X4,X,323
+2022,Jeep,Wrangler JL 4X4,X,241
+2022,Jeep,Wrangler JL 4X4,X,274
+2022,Jeep,Wrangler JL 4X4 eTorque,X,258
+2022,Jeep,Wrangler JL 4X4,X,277
+2022,Jeep,Wrangler JL Unlimited 4X4,X,251
+2022,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,D,255
+2022,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,D,275
+2022,Jeep,Wrangler JL Unlimited 4X4,X,275
+2022,Jeep,Wrangler JL Unlimited 4X4 eTorque,X,262
+2022,Jeep,Wrangler JL Unlimited 4X4,X,285
+2022,Jeep,Wrangler JL Unlimited 4X4,Z,387
+2022,Kia,Carnival,X,252
+2022,Kia,Forte,X,184
+2022,Kia,Forte,X,165
+2022,Kia,Forte,X,178
+2022,Kia,Forte 5,X,190
+2022,Kia,Forte 5,X,169
+2022,Kia,K5,X,207
+2022,Kia,K5 AWD,X,195
+2022,Kia,Niro,X,110
+2022,Kia,Niro FE,X,110
+2022,Kia,Niro Touring,X,124
+2022,Kia,Rio,X,159
+2022,Kia,Rio,X,166
+2022,Kia,Seltos,X,182
+2022,Kia,Seltos AWD,X,205
+2022,Kia,Seltos AWD,X,195
+2022,Kia,Sorento AWD,X,234
+2022,Kia,Sorento AWD,X,227
+2022,Kia,Sorento Hybrid AWD,X,157
+2022,Kia,Soul,X,187
+2022,Kia,Sportage,X,214
+2022,Kia,Sportage AWD,X,261
+2022,Kia,Sportage AWD,X,238
+2022,Kia,Stinger AWD,Z,280
+2022,Kia,Telluride AWD,X,266
+2022,Lamborghini,Aventador Countach,Z,489
+2022,Lamborghini,Aventador Coupe,Z,498
+2022,Lamborghini,Aventador Roadster,Z,498
+2022,Lamborghini,Huracan evo Coupe,Z,371
+2022,Lamborghini,Huracan evo Coupe AWD,Z,370
+2022,Lamborghini,Huracan evo Spyder,Z,371
+2022,Lamborghini,Huracan evo Spyder AWD,Z,370
+2022,Lamborghini,Urus,Z,384
+2022,Land Rover,Defender 90 P300,Z,289
+2022,Land Rover,Defender 90 P400,Z,287
+2022,Land Rover,Defender 90 5.0L V8,Z,339
+2022,Land Rover,Defender 110 P300,Z,306
+2022,Land Rover,Defender 110 P400,Z,287
+2022,Land Rover,Defender 110 5.0L V8,Z,350
+2022,Land Rover,Discovery P300,Z,271
+2022,Land Rover,Discovery P360,Z,270
+2022,Land Rover,Range Rover P360,Z,279
+2022,Land Rover,Range Rover P400,Z,279
+2022,Land Rover,Range Rover P525,Z,305
+2022,Land Rover,Range Rover P525 LWB,Z,305
+2022,Land Rover,Range Rover SVAutobiography,Z,354
+2022,Land Rover,Range Rover SVAutobiography LWB,Z,365
+2022,Land Rover,Range Rover Sport P360,Z,269
+2022,Land Rover,Range Rover Sport HST P400,Z,269
+2022,Land Rover,Range Rover Sport P525,Z,294
+2022,Land Rover,Range Rover Sport P575 SVR,Z,336
+2022,Lexus,ES 250 AWD,X,195
+2022,Lexus,ES 300h,X,124
+2022,Lexus,ES 350,X,214
+2022,Lexus,ES 350 F SPORT,X,219
+2022,Lexus,GX 460,Z,337
+2022,Lexus,IS 300,Z,221
+2022,Lexus,IS 300 AWD,Z,253
+2022,Lexus,IS 350 AWD,Z,253
+2022,Lexus,IS 500,Z,280
+2022,Lexus,LC 500,Z,294
+2022,Lexus,LC 500 Convertible,Z,304
+2022,Lexus,LC 500h,Z,189
+2022,Lexus,LS 500 AWD,Z,270
+2022,Lexus,LS 500h AWD,Z,216
+2022,Lexus,LX 600,Z,298
+2022,Lexus,NX 250 AWD,X,198
+2022,Lexus,NX 350 AWD,Z,221
+2022,Lexus,NX 350 AWD F SPORT,Z,222
+2022,Lexus,NX 350h AWD,Z,140
+2022,Lexus,RC 300 AWD,Z,253
+2022,Lexus,RC 350 AWD,Z,253
+2022,Lexus,RC F,Z,285
+2022,Lexus,RX 350 AWD,X,252
+2022,Lexus,RX 350 L AWD,X,268
+2022,Lexus,RX 450h AWD,Z,185
+2022,Lexus,RX 450h L AWD,Z,190
+2022,Lexus,UX 200,X,168
+2022,Lexus,UX 250h AWD,X,140
+2022,Lincoln,Aviator AWD,X,280
+2022,Lincoln,Corsair AWD,X,229
+2022,Lincoln,Corsair AWD,X,232
+2022,Lincoln,Nautilus AWD,X,252
+2022,Lincoln,Nautilus AWD,X,251
+2022,Lincoln,Nautilus AWD,X,262
+2022,Lincoln,Navigator 4X4,X,311
+2022,Maserati,Ghibli GT,Z,271
+2022,Maserati,Ghibli Modena,Z,271
+2022,Maserati,Ghibli Modena AWD,Z,293
+2022,Maserati,Ghibli Trofeo,Z,348
+2022,Maserati,Levante GT,Z,308
+2022,Maserati,Levante Modena,Z,308
+2022,Maserati,Levante Modena V8,Z,349
+2022,Maserati,Levante Trofeo,Z,349
+2022,Maserati,MC20,Z,295
+2022,Maserati,Quattroporte GT,Z,281
+2022,Maserati,Quattroporte Modena,Z,281
+2022,Maserati,Quattroporte Modena AWD,Z,293
+2022,Maserati,Quattroporte Trofeo,Z,348
+2022,Mazda,CX-3,X,179
+2022,Mazda,CX-3 (SIL),X,186
+2022,Mazda,CX-3 4WD,X,189
+2022,Mazda,CX-30 4WD,X,202
+2022,Mazda,CX-30 4WD,X,208
+2022,Mazda,CX-30 Turbo 4WD,X,220
+2022,Mazda,CX-5 4WD,X,216
+2022,Mazda,CX-5 4WD (Cylinder Deactivation),X,209
+2022,Mazda,CX-5 Turbo 4WD,X,230
+2022,Mazda,CX-9 4WD,X,243
+2022,Mazda,Mazda3 4-Door,X,178
+2022,Mazda,Mazda3 4-Door (SIL),X,180
+2022,Mazda,Mazda3 4-Door,X,183
+2022,Mazda,Mazda3 4-Door 4WD,X,199
+2022,Mazda,Mazda3 4-Door Turbo 4WD,X,207
+2022,Mazda,Mazda3 5-Door,X,181
+2022,Mazda,Mazda3 5-Door (SIL),X,181
+2022,Mazda,Mazda3 5-Door,X,190
+2022,Mazda,Mazda3 5-Door (SIL),X,198
+2022,Mazda,Mazda3 5-Door 4WD,X,200
+2022,Mazda,Mazda3 5-Door Turbo 4WD,X,209
+2022,Mazda,MX-5,Z,186
+2022,Mazda,MX-5 (SIL),Z,189
+2022,Mercedes-Benz,A 220 4MATIC Sedan,Z,194
+2022,Mercedes-Benz,A 250 4MATIC Hatch,Z,202
+2022,Mercedes-Benz,AMG A 35 4MATIC Sedan,Z,221
+2022,Mercedes-Benz,AMG A 35 4MATIC Hatch,Z,221
+2022,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Z,256
+2022,Mercedes-Benz,AMG C 43 4MATIC Coupe,Z,252
+2022,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Z,227
+2022,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Z,243
+2022,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Z,241
+2022,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Z,232
+2022,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Z,247
+2022,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Z,239
+2022,Mercedes-Benz,AMG GLA 35 4MATIC SUV,Z,230
+2022,Mercedes-Benz,AMG GLA 45 4MATIC SUV,Z,260
+2022,Mercedes-Benz,AMG GLB 35 4MATIC SUV,Z,262
+2022,Mercedes-Benz,AMG GLC 43 4MATIC SUV,Z,264
+2022,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Z,287
+2022,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Z,283
+2022,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Z,292
+2022,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Z,258
+2022,Mercedes-Benz,C 300 4MATIC Cabriolet,Z,224
+2022,Mercedes-Benz,C 300 4MATIC Coupe,Z,217
+2022,Mercedes-Benz,CLA 250 4MATIC Coupe,Z,200
+2022,Mercedes-Benz,CLS 450 4MATIC Coupe,Z,229
+2022,Mercedes-Benz,E 350 4MATIC Sedan,Z,229
+2022,Mercedes-Benz,E 450 4MATIC Sedan,Z,218
+2022,Mercedes-Benz,E 450 4MATIC Cabriolet,Z,233
+2022,Mercedes-Benz,E 450 4MATIC Coupe,Z,225
+2022,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Z,229
+2022,Mercedes-Benz,GLA 250 4MATIC SUV,Z,210
+2022,Mercedes-Benz,GLB 250 4MATIC SUV,Z,224
+2022,Mercedes-Benz,GLC 300 4MATIC SUV,Z,242
+2022,Mercedes-Benz,GLC 300 4MATIC Coupe,Z,237
+2022,Mercedes-Benz,GLE 350 4MATIC SUV,Z,250
+2022,Mercedes-Benz,GLE 450 4MATIC SUV,Z,244
+2022,Mercedes-Benz,GLE 450 4MATIC Coupe,Z,247
+2022,Mercedes-Benz,GLS 450 4MATIC SUV,Z,269
+2022,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Z,301
+2022,Mercedes-Benz,Metris Cargo Van,Z,267
+2022,Mercedes-Benz,Metris Cargo Van LWB,Z,267
+2022,Mercedes-Benz,Metris Passenger Van,Z,282
+2022,Mercedes-Benz,S 500 4MATIC SWB Sedan,Z,231
+2022,Mercedes-Benz,S 580 4MATIC LWB Sedan,Z,285
+2022,MINI,Cooper 3 Door,Z,170
+2022,MINI,Cooper 3 Door,Z,177
+2022,MINI,Cooper 5 Door,Z,170
+2022,MINI,Cooper 5 Door,Z,177
+2022,MINI,Cooper Convertible,Z,170
+2022,MINI,Cooper Convertible,Z,177
+2022,MINI,Cooper Countryman ALL4,Z,211
+2022,MINI,Cooper S 3 Door,Z,174
+2022,MINI,Cooper S 3 Door,Z,211
+2022,MINI,Cooper S 5 Door,Z,174
+2022,MINI,Cooper S 5 Door,Z,211
+2022,MINI,Cooper S Clubman ALL4,Z,207
+2022,MINI,Cooper S Convertible,Z,182
+2022,MINI,Cooper S Convertible,Z,205
+2022,MINI,Cooper S Countryman ALL4,Z,212
+2022,MINI,John Cooper Works 3 Door,Z,191
+2022,MINI,John Cooper Works 3 Door,Z,211
+2022,MINI,John Cooper Works Clubman ALL4,Z,210
+2022,MINI,John Cooper Works Convertible,Z,198
+2022,MINI,John Cooper Works Countryman ALL4,Z,210
+2022,Mitsubishi,Eclipse Cross 4WD,X,216
+2022,Mitsubishi,Mirage,X,143
+2022,Mitsubishi,Mirage,X,151
+2022,Mitsubishi,Outlander 4WD,X,208
+2022,Mitsubishi,RVR,X,206
+2022,Mitsubishi,RVR 4WD,X,213
+2022,Mitsubishi,RVR 4WD,X,218
+2022,Nissan,Altima AWD,X,186
+2022,Nissan,Altima AWD SR/Platinum,X,190
+2022,Nissan,Armada 4WD,Z,362
+2022,Nissan,Frontier,X,266
+2022,Nissan,Frontier 4WD,X,288
+2022,Nissan,Kicks,X,169
+2022,Nissan,Maxima,Z,233
+2022,Nissan,Murano AWD,X,245
+2022,Nissan,Pathfinder 4WD,X,246
+2022,Nissan,Qashqai,X,188
+2022,Nissan,Qashqai,X,213
+2022,Nissan,Qashqai AWD,X,196
+2022,Nissan,Rogue,X,169
+2022,Nissan,Rogue,X,190
+2022,Nissan,Rogue AWD,X,179
+2022,Nissan,Rogue AWD SL/Platinum,X,181
+2022,Nissan,Rogue AWD,X,195
+2022,Nissan,Sentra,X,167
+2022,Nissan,Sentra SR,X,171
+2022,Nissan,Sentra,X,185
+2022,Nissan,Sentra SR,X,189
+2022,Nissan,Versa,X,158
+2022,Nissan,Versa,X,181
+2022,Porsche,718 Boxster,Z,233
+2022,Porsche,718 Boxster,Z,245
+2022,Porsche,718 Boxster T,Z,236
+2022,Porsche,718 Boxster T,Z,245
+2022,Porsche,718 Boxster S,Z,255
+2022,Porsche,718 Boxster S,Z,263
+2022,Porsche,718 Boxster GTS 4.0,Z,260
+2022,Porsche,718 Boxster GTS 4.0,Z,284
+2022,Porsche,718 Cayman,Z,233
+2022,Porsche,718 Cayman,Z,245
+2022,Porsche,718 Cayman T,Z,236
+2022,Porsche,718 Cayman T,Z,245
+2022,Porsche,718 Cayman S,Z,255
+2022,Porsche,718 Cayman S,Z,263
+2022,Porsche,718 Cayman GT4,Z,271
+2022,Porsche,718 Cayman GT4,Z,286
+2022,Porsche,718 Cayman GTS 4.0,Z,260
+2022,Porsche,718 Cayman GTS 4.0,Z,284
+2022,Porsche,718 Spyder,Z,271
+2022,Porsche,718 Spyder,Z,286
+2022,Porsche,911 Carrera,Z,275
+2022,Porsche,911 Carrera Cabriolet,Z,275
+2022,Porsche,911 Carrera 4,Z,275
+2022,Porsche,911 Carrera 4 Cabriolet,Z,275
+2022,Porsche,911 Carrera S,Z,274
+2022,Porsche,911 Carrera S,Z,264
+2022,Porsche,911 Carrera S Cabriolet,Z,273
+2022,Porsche,911 Carrera S Cabriolet,Z,275
+2022,Porsche,911 Carrera 4S,Z,275
+2022,Porsche,911 Carrera 4S,Z,275
+2022,Porsche,911 Carrera 4S Cabriolet,Z,273
+2022,Porsche,911 Carrera 4S Cabriolet,Z,281
+2022,Porsche,911 Carrera GTS,Z,289
+2022,Porsche,911 Carrera GTS,Z,276
+2022,Porsche,911 Carrera GTS Cabriolet,Z,289
+2022,Porsche,911 Carrera GTS Cabriolet,Z,278
+2022,Porsche,911 Carrera 4 GTS,Z,288
+2022,Porsche,911 Carrera 4 GTS,Z,289
+2022,Porsche,911 Carrera 4 GTS Cabriolet,Z,288
+2022,Porsche,911 Carrera 4 GTS Cabriolet,Z,296
+2022,Porsche,911 GT3,Z,334
+2022,Porsche,911 GT3,Z,355
+2022,Porsche,911 GT3 Touring,Z,335
+2022,Porsche,911 GT3 Touring,Z,354
+2022,Porsche,911 Targa 4,Z,275
+2022,Porsche,911 Targa 4S,Z,274
+2022,Porsche,911 Targa 4S,Z,278
+2022,Porsche,911 Targa 4 GTS,Z,287
+2022,Porsche,911 Targa 4 GTS,Z,296
+2022,Porsche,911 Turbo,Z,321
+2022,Porsche,911 Turbo Cabriolet,Z,324
+2022,Porsche,911 Turbo S,Z,321
+2022,Porsche,911 Turbo S Cabriolet,Z,328
+2022,Porsche,Cayenne,Z,289
+2022,Porsche,Cayenne Coupe,Z,289
+2022,Porsche,Cayenne S,Z,307
+2022,Porsche,Cayenne S Coupe,Z,305
+2022,Porsche,Cayenne GTS,Z,331
+2022,Porsche,Cayenne GTS Coupe,Z,326
+2022,Porsche,Cayenne Turbo,Z,343
+2022,Porsche,Cayenne Turbo Coupe,Z,330
+2022,Porsche,Cayenne Turbo GT,Z,345
+2022,Porsche,Macan,Z,263
+2022,Porsche,Macan S,Z,289
+2022,Porsche,Macan GTS,Z,290
+2022,Porsche,Panamera,Z,274
+2022,Porsche,Panamera 4,Z,274
+2022,Porsche,Panamera 4 Executive,Z,289
+2022,Porsche,Panamera 4 ST,Z,274
+2022,Porsche,Panamera 4S,Z,276
+2022,Porsche,Panamera 4S Executive,Z,292
+2022,Porsche,Panamera 4S ST,Z,292
+2022,Porsche,Panamera GTS,Z,323
+2022,Porsche,Panamera GTS ST,Z,323
+2022,Porsche,Panamera Turbo S,Z,326
+2022,Porsche,Panamera Turbo S Executive,Z,326
+2022,Porsche,Panamera Turbo S ST,Z,326
+2022,Ram,1500 EcoDiesel,D,243
+2022,Ram,1500 HFE EcoDiesel,D,238
+2022,Ram,1500 eTorque,X,253
+2022,Ram,1500 HFE eTorque,X,245
+2022,Ram,1500,X,320
+2022,Ram,1500 eTorque,X,275
+2022,Ram,1500 4X4 EcoDiesel,D,260
+2022,Ram,1500 4X4 eTorque,X,260
+2022,Ram,1500 4X4,X,325
+2022,Ram,1500 4X4 eTorque,X,284
+2022,Ram,1500 4X4 TRX,Z,465
+2022,Ram,1500 Classic,X,280
+2022,Ram,1500 Classic,X,323
+2022,Ram,1500 Classic 4X4,X,295
+2022,Ram,1500 Classic 4X4,X,330
+2022,Ram,ProMaster City,X,232
+2022,Rolls-Royce,Cullinan,Z,386
+2022,Rolls-Royce,Cullinan Black Badge,Z,386
+2022,Rolls-Royce,Ghost,Z,387
+2022,Rolls-Royce,Ghost Black Badge,Z,387
+2022,Rolls-Royce,Ghost EWB,Z,387
+2022,Rolls-Royce,Phantom,Z,382
+2022,Rolls-Royce,Phantom EWB,Z,382
+2022,Subaru,Ascent AWD,X,245
+2022,Subaru,BRZ,Z,224
+2022,Subaru,BRZ,Z,247
+2022,Subaru,Crosstrek AWD,X,184
+2022,Subaru,Crosstrek AWD,X,220
+2022,Subaru,Crosstrek AWD,X,188
+2022,Subaru,Forester AWD,X,192
+2022,Subaru,Forester Wilderness AWD,X,210
+2022,Subaru,Impreza 4-Door AWD,X,174
+2022,Subaru,Impreza 4-Door AWD,X,209
+2022,Subaru,Impreza 5-Door AWD,X,178
+2022,Subaru,Impreza 5-Door AWD,X,211
+2022,Subaru,Legacy AWD,X,205
+2022,Subaru,Legacy AWD,X,184
+2022,Subaru,Outback AWD,X,213
+2022,Subaru,Outback AWD,X,192
+2022,Subaru,Outback Wilderness AWD,X,235
+2022,Subaru,WRX AWD,Z,262
+2022,Subaru,WRX AWD,Z,254
+2022,Toyota,4Runner 4WD,X,323
+2022,Toyota,4Runner 4WD (Part-Time 4WD),X,321
+2022,Toyota,C-HR,X,189
+2022,Toyota,Camry LE/SE,X,174
+2022,Toyota,Camry XSE,X,178
+2022,Toyota,Camry XSE V6,X,215
+2022,Toyota,Camry TRD,X,220
+2022,Toyota,Camry AWD SE,X,192
+2022,Toyota,Camry AWD XSE,X,195
+2022,Toyota,Camry Hybrid LE,X,113
+2022,Toyota,Camry Hybrid SE/XLE/XSE,X,121
+2022,Toyota,Corolla,X,166
+2022,Toyota,Corolla XLE,X,170
+2022,Toyota,Corolla,X,165
+2022,Toyota,Corolla,X,159
+2022,Toyota,Corolla XSE,X,164
+2022,Toyota,Corolla,X,172
+2022,Toyota,Corolla Apex Edition,X,164
+2022,Toyota,Corolla Hatchback,X,159
+2022,Toyota,Corolla Hatchback,X,179
+2022,Toyota,Corolla Hybrid,X,106
+2022,Toyota,Corolla Cross,X,171
+2022,Toyota,Corolla Cross AWD,X,182
+2022,Toyota,GR 86,Z,224
+2022,Toyota,GR 86,Z,246
+2022,Toyota,GR Supra 2.0,Z,195
+2022,Toyota,GR Supra 3.0,Z,218
+2022,Toyota,Highlander AWD,X,241
+2022,Toyota,Highlander Hybrid AWD,X,158
+2022,Toyota,Highlander Hybrid AWD Limited/Platinum,X,156
+2022,Toyota,Prius,X,106
+2022,Toyota,Prius AWD,X,111
+2022,Toyota,RAV4,X,184
+2022,Toyota,RAV4 (Stop/Start),X,180
+2022,Toyota,RAV4 AWD,X,198
+2022,Toyota,RAV4 AWD (Stop/Start),X,187
+2022,Toyota,RAV4 AWD LE,X,184
+2022,Toyota,RAV4 AWD TRD Off-Road,X,200
+2022,Toyota,RAV4 Hybrid AWD,X,140
+2022,Toyota,Sequoia 4WD,X,385
+2022,Toyota,Sienna,X,154
+2022,Toyota,Sienna AWD,X,158
+2022,Toyota,Tacoma 4WD,X,278
+2022,Toyota,Tacoma 4WD,X,299
+2022,Toyota,Tacoma 4WD D-Cab TRD Off-Road/PRO,X,300
+2022,Toyota,Tundra,X,277
+2022,Toyota,Tundra 4WD,X,285
+2022,Toyota,Tundra 4WD TRD,X,286
+2022,Toyota,Tundra Hybrid 4WD,X,274
+2022,Toyota,Tundra Hybrid 4WD TRD PRO,X,277
+2022,Toyota,Venza AWD,X,142
+2022,Volkswagen,Atlas 4MOTION,X,249
+2022,Volkswagen,Atlas 4MOTION,X,286
+2022,Volkswagen,Atlas Cross Sport 4MOTION,X,252
+2022,Volkswagen,Atlas Cross Sport 4MOTION,X,275
+2022,Volkswagen,Golf GTI,X,194
+2022,Volkswagen,Golf GTI,X,198
+2022,Volkswagen,Golf R,Z,213
+2022,Volkswagen,Golf R,Z,237
+2022,Volkswagen,Jetta,X,159
+2022,Volkswagen,Jetta SE/SEL,X,167
+2022,Volkswagen,Jetta,X,161
+2022,Volkswagen,Jetta GLI,X,185
+2022,Volkswagen,Jetta GLI,X,186
+2022,Volkswagen,Passat,X,196
+2022,Volkswagen,Taos,X,178
+2022,Volkswagen,Taos 4MOTION,X,200
+2022,Volkswagen,Tiguan 4MOTION,X,222
+2022,Volkswagen,Tiguan R-Line 4MOTION,X,229
+2022,Volvo,S60 B5,Z,186
+2022,Volvo,S60 B5 AWD,Z,193
+2022,Volvo,S90 B6 AWD,Z,212
+2022,Volvo,V60 T6 AWD,Z,224
+2022,Volvo,V60 CC T5 AWD,Z,221
+2022,Volvo,V90 CC B6 AWD,Z,222
+2022,Volvo,XC40 T4 AWD,X,217
+2022,Volvo,XC40 T5 AWD,Z,219
+2022,Volvo,XC60 B5 AWD,Z,219
+2022,Volvo,XC60 B6 AWD,Z,232
+2022,Volvo,XC90 T5 AWD,Z,236
+2022,Volvo,XC90 T6 AWD,Z,252
