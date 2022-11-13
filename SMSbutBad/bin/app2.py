@@ -2,12 +2,14 @@ from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
 from os import environ
 from twilio.rest import Client
-# Your Account SID from twilio.com/console
-account_sid = "AC9a7dc846c75614072af080adf179816e"
-# Your Auth Token from twilio.com/console
-auth_token  = "56120522a3125fe2a08acafc0de4ea28"
 
-client = Client(account_sid, auth_token)
+with open("config.json", 'r') as env:
+    environment = json.load(env)
+    username = environment["user"]
+    auth_token = environment["authToken"]
+
+
+client = Client(username, auth_token)
 app = Flask(__name__)
 agent_phone = ['+15718355413']
 twilioPhone = ['+17088477520']
