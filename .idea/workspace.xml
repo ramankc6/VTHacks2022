@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ee457c1-a7df-477f-b112-0347661d3c6c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Susbot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Susbot/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668288441662</updated>
-      <workItem from="1668339709654" duration="1011000" />
+      <workItem from="1668339709654" duration="1401000" />
     </task>
     <servers />
   </component>

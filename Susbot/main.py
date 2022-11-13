@@ -53,7 +53,7 @@ SusBot.fit(input_train, output_train)
 
 print(SusBot.score(input_train, output_train))
 
-pivitdaddy = pd.read_csv(loc_input)
-plswork = SusBot.predict(pivitdaddy)
+input_test = pd.read_csv(loc_input)
+result = SusBot.predict(input_test)
 
-print(plswork)
+print(result)
