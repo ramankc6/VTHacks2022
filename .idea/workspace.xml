@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee457c1-a7df-477f-b112-0347661d3c6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/Susbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/input/2022-fuel-consumption-ratings/MY2022 Fuel Consumption Ratings - MY2022 Fuel Consumption Ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/input/2022-fuel-consumption-ratings/PIVITBBBYYYYY - Sheet1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Working Bot that find CO2 of cars/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/Susbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/input/2022-fuel-consumption-ratings/MY2022 Fuel Consumption Ratings - MY2022 Fuel Consumption Ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/input/2022-fuel-consumption-ratings/PIVITBBBYYYYY - Sheet1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working Bot that find CO2 of cars/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,18 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/abhayaupraity/Documents/GitHub/VTHacks2022&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ramankhatrichhetri/Documents/GitHub/VTHacks2022",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -70,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668288441662</updated>
       <workItem from="1668339709654" duration="2743000" />
-      <workItem from="1668344514709" duration="2143000" />
+      <workItem from="1668344514709" duration="3326000" />
     </task>
     <servers />
   </component>
@@ -93,7 +110,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/VTHacks2022$app2.coverage" NAME="app2 Coverage Results" MODIFIED="1668344772491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/VTHacks2022$app.coverage" NAME="app Coverage Results" MODIFIED="1668346349197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VTHacks2022$app.coverage" NAME="app Coverage Results" MODIFIED="1668347412097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VTHacks2022$main.coverage" NAME="main Coverage Results" MODIFIED="1668343398936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Susbot" />
   </component>
 </project>
