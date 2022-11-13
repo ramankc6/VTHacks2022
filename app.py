@@ -17,6 +17,7 @@ app = Flask(__name__)
 @app.route("/forward", methods=['GET','POST'])
 
 def forward():
+    Surbot = False
     incoming_message = request.form['Body']
     from_phone = request.form['From']
     if(Surbot == True):
