@@ -4,6 +4,7 @@ from twilio.rest import Client
 import json
 from main import Susbot
 import pandas as pd
+import csv
 
 with open("config.json", 'r') as env:
     environment = json.load(env)
@@ -21,7 +22,13 @@ def forward():
     incoming_message = request.form['Body']
     from_phone = request.form['From']
     if(Surbot == True):
-        
+        enter = list(incoming_message.split())
+        f = open('myfile.csv', 'w')
+        with open('myfile.csv', 'w') as f:
+            writer = csv.writer(f)
+            f.write('Model Year, Make, Model, Fuel Type\n')
+            f.write(enter)
+
         ooga = client.messages.create(
             to = from_phone,
             from_= companyPhone,
