@@ -1,0 +1,16 @@
+PLANNING
+
+Messaging extension that does data analysis to help user figure out
+what words are most effective for getting responses/networking
+(excludes articles, conjunctions, etc)
+User1->Twilio->User2
+User2->Twilio->User1
+Twilio->Data visualization
+
+
+Within this somehow, you can talk to a bot about Carbon Footprint
+Send image or description, from there Bot does image recognition and then
+returns what it thinks you're showing and what it's carbon footprint is
+(only works for common items)
+Potential addition is bot suggests more sustainable alternatives to the user
+for each item
